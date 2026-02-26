@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I’m Dustin 👋
 
-<!--
-**Wdustin1/Wdustin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a hands-on builder focused on AI systems, automation workflows, and developer tooling.
 
-Here are some ideas to get you started:
+Over the past 2 years I’ve been exploring how language models can be turned into practical applications, including local AI environments, multi-model workflows, and automation tools that integrate AI-driven analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I’m working on
+- Local AI environments (Ollama + Open WebUI)
+- AI orchestration and workflow experimentation
+- Automation systems and bot development
+- AI-assisted development tooling
+
+### 🧠 Tech I use
+Python • Node.js/TypeScript • Docker • MongoDB • PostgreSQL • Redis • Google Cloud • Firebase • n8n
+
+---
+
+More projects coming soon 🚀
